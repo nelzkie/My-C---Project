@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+
+project(app_project)
+
+add_executable(nelzkie Array_Parameters.cpp ArrayTypes.cpp Assert_preprocessor.cpp Auto_Type_Specifier.cpp Basic_Functions.cpp Bitwise_Operator.cpp const_member_function.cpp Const_Pointer_vs_Pointer_to_const.cpp ConstExpr_function.cpp Decltype_specifier.cpp Function_matching.cpp Function_Pointer.cpp Functions_With_Unknown_Param.cpp Inline_functions.cpp Iterators.cpp main.cpp Modulus_Operator.cpp MultiDimensionalArray.cpp NamedCast.cpp NDEBUG_preprocessor_variable.cpp NullPointer_sample.cpp PassByValue_VS_Reference.cpp Pointer_condition.cpp PointerDeclarations_primer.cpp Reference_function.cpp return_this_pointer.cpp StringManipulation.cpp Struct_VS_Class.cpp Subscript.cpp this_pointer.cpp Trailing_return_type.cpp Type_Aliases.cpp Using_Marker_array.cpp VectorType.cpp VoidPointer.cpp)
