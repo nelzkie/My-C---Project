@@ -30,7 +30,7 @@ int main(int argc, const char * argv[])
      **/
     
     this_pointer obj;
-    
+    //hahhaha
 
     getchar();
     
